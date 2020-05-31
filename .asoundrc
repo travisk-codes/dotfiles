@@ -1,0 +1,29 @@
+# got from http://www.nabble.com/tascam-us122l-and-ccrma-td24036395.html
+# thanks to Karsten
+
+# The usb_stream plugin configuration
+
+pcm.!usb_stream {
+        @args [ CARD ]
+        @args.CARD {
+                type string
+                default "1"
+        }
+
+        type usb_stream
+
+        card $CARD
+}
+
+ctl.!usb_stream {
+        @args [ CARD ]
+        @args.CARD {
+                type string
+                default "1"
+        }
+
+        type hw
+
+        card $CARD
+}
+

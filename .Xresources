@@ -1,0 +1,11 @@
+URxvt*background: black
+URxvt*foreground: white
+URxvt*scrollBar: false
+URxvt*internalBorder: 10
+URxvt.font: xft:DroidSansMono Nerd Font:size=10
+URxvt.letterSpace: 0
+
+XTerm.vt100.faceName: DroidSansMono Nerd Font:size=10
+XTerm*background: black
+XTerm*foreground: white
+XTerm*BorderWidth: 10

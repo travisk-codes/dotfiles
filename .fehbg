@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/tdk/Downloads/bg-space-ff5065.jpg' 
