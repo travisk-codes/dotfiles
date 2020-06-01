@@ -1,0 +1,16 @@
+@namespace url('http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul'); /* set default namespace to XUL */
+
+/* hides the native tabs */
+#TabsToolbar {
+	visibility: collapse !important;
+}
+#titlebar {
+	visibility: collapse !important;
+}
+#navigator-toolbox {
+	visibility: collapse !important;
+}
+browser {
+	/*margin-right: -14px !important;*/
+	margin-bottom: 0px !important;
+}
