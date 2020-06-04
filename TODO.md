@@ -1,0 +1,27 @@
+TODO:
+- from ubuntu
+	- ~~get to-automate list~~
+	- ~~get userChrome.css~~
+	- ~~push pomodoro timer~~
+	- ~~upload job docs~~
+	- export datums
+	- freeCodeCamp state?
+	- push spotify auth example
+- obs
+	- ~~party parrot and blobcat!~~
+- code
+	- better highlight color in code
+	- ~~stress test typescript compiling~~
+	- ~~twitch-overlay~~
+		- ~~remove drop shadows~~
+		- ~~change resolution~~
+- misc
+	- terminal colors?
+	- ~~terminal twitch chat~~
+	- ~~chromeless firefox~~
+	- cursor
+	- color emojis
+	- install more fonts
+	- ssh key
+- jobs
+	- update resume with streaming: Presenting technical topics live via live broadcast on your experience
